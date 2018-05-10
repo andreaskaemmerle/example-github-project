@@ -1,2 +1,2 @@
 # example-project
-Example project
+Example project hosted on GitHub.com.
